@@ -3,6 +3,10 @@ Cognitive Q-Learning algorithms for team capture the flag
 
 ![](https://github.com/nhatpd/Cognitive-Q-Learning/blob/main/ctf1.gif)
 
+<p align="center">
+  <img src="[demo.gif](https://github.com/nhatpd/Cognitive-Q-Learning/blob/main/ctf1.gif)" alt="animated" />
+</p>
+
 To train two teams playing against each other, simply execute the following command:
 
 python cooperative_capture.py --environment [env] --blue_team [type] --red_team [type]
