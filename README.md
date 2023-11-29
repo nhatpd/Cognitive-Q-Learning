@@ -1,5 +1,5 @@
 # Cognitive-Q-Learning
-Cognitive Q-Learning algorithms for team capture the flags
+Cognitive Q-Learning algorithms for team capture the flag
 
 To train two teams playing against each other, simply execute the following command:
 
