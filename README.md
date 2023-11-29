@@ -1,8 +1,6 @@
 # Cognitive-Q-Learning
 Cognitive Q-Learning algorithms for team capture the flag
 
-![](https://github.com/nhatpd/Cognitive-Q-Learning/blob/main/ctf1.gif)
-
 <p align="center">
   <img src="https://github.com/nhatpd/Cognitive-Q-Learning/blob/main/ctf1.gif" alt="animated" />
 </p>
